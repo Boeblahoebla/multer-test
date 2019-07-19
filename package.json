@@ -1,0 +1,21 @@
+{
+  "name": "04_multi-upload",
+  "version": "1.0.0",
+  "description": "Testing multiple files upload",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dzengiz Tafa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "4.17.1",
+    "multer": "1.4.2"
+  },
+  "devDependencies": {
+    "should": "~13.2.3",
+    "mocha": "~6.2.0",
+    "supertest": "~4.0.2"
+  }
+}
